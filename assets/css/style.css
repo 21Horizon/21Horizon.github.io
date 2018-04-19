@@ -1,0 +1,18 @@
+body{
+
+}
+
+.main-container{
+	min-width: 100vw;
+	min-height: 100vh;
+	background: url(../images/fijiblack.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-color: #ffffff; 	
+}
+
+.logo-centered{
+	margin-top: 20vh;	
+}
